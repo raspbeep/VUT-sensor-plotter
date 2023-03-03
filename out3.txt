@@ -1,0 +1,1029 @@
+[00:00:51.662,994] <inf> MAX30102: STS1 status 128
+[00:00:51.663,543] <inf> MAX30102: STS2 status 0
+[00:00:51.663,543] <inf> MAX30102: Launching data ready handler
+
+[00:00:51.666,107] <inf> app: 314 ffffffde
+[00:00:51.668,670] <inf> app: 317 ffffffe1
+[00:00:51.671,142] <inf> app: 317 ffffffea
+[00:00:51.673,645] <inf> app: 326 ffffffe9
+[00:00:51.676,116] <inf> app: 339 ffffffee
+[00:00:51.678,619] <inf> app: 342 ffffffed
+[00:00:51.681,091] <inf> app: 343 ffffffef
+[00:00:51.683,593] <inf> app: 350 fffffff3
+[00:00:51.686,065] <inf> app: 348 fffffff8
+[00:00:51.688,568] <inf> app: 33f fffffff6
+[00:00:51.691,040] <inf> app: 334 ffffffe8
+[00:00:51.693,542] <inf> app: 342 fffffff0
+[00:00:51.696,014] <inf> app: 343 fffffffc
+[00:00:51.698,516] <inf> app: 34b fffffff3
+[00:00:51.700,988] <inf> app: 333 fffffff7
+[00:00:51.703,491] <inf> app: 339 0
+[00:00:51.705,963] <inf> app: 341 fffffff9
+[00:00:51.708,465] <inf> app: 32d fffffff9
+[00:00:51.710,937] <inf> app: 326 ffffffed
+[00:00:51.713,439] <inf> app: 301 fffffff5
+[00:00:51.715,911] <inf> app: 288 ffffffc9
+[00:00:51.718,383] <inf> app: 187 ffffff80
+[00:00:51.720,886] <inf> app: eb ffffff60
+[00:00:51.723,358] <inf> app: a3 ffffff52
+[00:00:51.725,860] <inf> app: 77 ffffff4d
+[00:00:51.728,332] <inf> app: 6e ffffff44
+[00:00:51.730,834] <inf> app: 78 ffffff50
+[00:00:51.733,306] <inf> app: 75 ffffff4c
+[00:00:51.735,809] <inf> app: 85 ffffff63
+[00:00:51.738,281] <inf> app: 80 ffffff56
+[00:00:51.740,783] <inf> app: 6c ffffff6a
+[00:00:51.743,255] <inf> app: 73 ffffff7a
+[00:00:52.301,208] <inf> MAX30102: STS1 status 128
+[00:00:52.301,757] <inf> MAX30102: STS2 status 0
+[00:00:52.301,757] <inf> MAX30102: Launching data ready handler
+
+[00:00:52.304,321] <inf> app: 9a ffffff6e
+[00:00:52.306,884] <inf> app: b2 ffffff73
+[00:00:52.309,417] <inf> app: b5 ffffff66
+[00:00:52.311,981] <inf> app: a5 ffffff71
+[00:00:52.314,544] <inf> app: 8f ffffff70
+[00:00:52.317,108] <inf> app: 7c ffffff5f
+[00:00:52.319,671] <inf> app: 82 ffffff6d
+[00:00:52.322,143] <inf> app: 96 ffffff72
+[00:00:52.324,645] <inf> app: 96 ffffff79
+[00:00:52.327,117] <inf> app: 92 ffffff6a
+[00:00:52.329,589] <inf> app: 93 ffffff71
+[00:00:52.332,092] <inf> app: 93 ffffff71
+[00:00:52.334,564] <inf> app: a8 ffffff80
+[00:00:52.337,036] <inf> app: bb ffffff87
+[00:00:52.339,538] <inf> app: ce ffffff85
+[00:00:52.342,010] <inf> app: 107 ffffff8b
+[00:00:52.344,512] <inf> app: 127 ffffffa7
+[00:00:52.346,984] <inf> app: 14f ffffffa5
+[00:00:52.349,456] <inf> app: 16f ffffffac
+[00:00:52.351,959] <inf> app: 184 ffffffb8
+[00:00:52.354,431] <inf> app: 189 ffffffba
+[00:00:52.356,933] <inf> app: 1a2 ffffffb7
+[00:00:52.359,405] <inf> app: 1a8 ffffffbc
+[00:00:52.361,907] <inf> app: 1d1 ffffffbd
+[00:00:52.364,379] <inf> app: 1d4 ffffffd8
+[00:00:52.366,882] <inf> app: 203 ffffffd1
+[00:00:52.369,354] <inf> app: 20d ffffffdd
+[00:00:52.371,826] <inf> app: 223 ffffffdf
+[00:00:52.374,328] <inf> app: 23c ffffffe7
+[00:00:52.376,800] <inf> app: 249 ffffffeb
+[00:00:52.379,302] <inf> app: 25e ffffffd9
+[00:00:52.381,774] <inf> app: 261 ffffffd7
+[00:00:52.432,830] <inf> app: HERE 5
+[00:00:52.461,334] <inf> MAX30102: STS1 status 0
+[00:00:52.461,853] <inf> MAX30102: STS2 status 2
+[00:00:52.461,853] <inf> app: Temperature: 143!!!
+
+[00:00:52.464,355] <err> app: temperature: 27.19
+[00:00:52.959,350] <inf> MAX30102: STS1 status 128
+[00:00:52.959,899] <inf> MAX30102: STS2 status 0
+[00:00:52.959,899] <inf> MAX30102: Launching data ready handler
+
+[00:00:52.962,463] <inf> app: 26f fffffff6
+[00:00:52.964,996] <inf> app: 27c ffffffcd
+[00:00:52.967,559] <inf> app: 26e ffffffd7
+[00:00:52.970,123] <inf> app: 25f ffffffce
+[00:00:52.972,686] <inf> app: 22d ffffffbd
+[00:00:52.975,250] <inf> app: 1c1 ffffffac
+[00:00:52.977,813] <inf> app: 126 ffffff80
+[00:00:52.980,285] <inf> app: d8 ffffff66
+[00:00:52.982,788] <inf> app: df ffffff73
+[00:00:52.985,260] <inf> app: 10b ffffff89
+[00:00:52.987,731] <inf> app: 139 ffffff9a
+[00:00:52.990,234] <inf> app: 166 ffffffa6
+[00:00:52.992,706] <inf> app: 17f ffffffb1
+[00:00:52.995,208] <inf> app: 197 ffffffb5
+[00:00:52.997,680] <inf> app: 1ad ffffffbf
+[00:00:53.000,183] <inf> app: 1c6 ffffffc3
+[00:00:53.002,655] <inf> app: 1c7 ffffffbf
+[00:00:53.005,126] <inf> app: 1d1 ffffffc4
+[00:00:53.007,629] <inf> app: 1dc ffffffb9
+[00:00:53.010,101] <inf> app: 1d2 ffffffaa
+[00:00:53.012,603] <inf> app: 1ce ffffffb4
+[00:00:53.015,075] <inf> app: 1d3 ffffffbb
+[00:00:53.017,547] <inf> app: 1e4 ffffffba
+[00:00:53.020,050] <inf> app: 1e1 ffffffbb
+[00:00:53.022,521] <inf> app: 1d6 ffffffc2
+[00:00:53.025,024] <inf> app: 1d4 ffffffc7
+[00:00:53.027,496] <inf> app: 1dc ffffffc1
+[00:00:53.029,998] <inf> app: 1e5 ffffffcf
+[00:00:53.032,470] <inf> app: 1e4 ffffffc1
+[00:00:53.034,942] <inf> app: 1e5 ffffffd0
+[00:00:53.037,445] <inf> app: 101 f
+[00:00:53.039,916] <inf> app: 1e1 ffffffbf
+[00:00:53.433,776] <inf> app: HERE 5
+[00:00:53.462,341] <inf> MAX30102: STS1 status 0
+[00:00:53.462,860] <inf> MAX30102: STS2 status 2
+[00:00:53.462,860] <inf> app: Temperature: 146!!!
+
+[00:00:53.465,423] <err> app: temperature: 27.25
+[00:00:53.617,492] <inf> MAX30102: STS1 status 128
+[00:00:53.618,011] <inf> MAX30102: STS2 status 0
+[00:00:53.618,011] <inf> MAX30102: Launching data ready handler
+
+[00:00:53.620,574] <inf> app: 1e5 ffffffd0
+[00:00:53.623,138] <inf> app: 1e7 ffffffd1
+[00:00:53.625,640] <inf> app: 1df ffffffd4
+[00:00:53.628,112] <inf> app: 1e4 ffffffdc
+[00:00:53.630,615] <inf> app: 1eb ffffffd9
+[00:00:53.633,087] <inf> app: 1ea ffffffd9
+[00:00:53.635,589] <inf> app: 1e8 ffffffce
+[00:00:53.638,061] <inf> app: 1dc ffffffce
+[00:00:53.640,563] <inf> app: 1ee ffffffd4
+[00:00:53.643,035] <inf> app: 1e7 ffffffe1
+[00:00:53.645,538] <inf> app: 1dc ffffffd1
+[00:00:53.648,010] <inf> app: 1d9 ffffffd9
+[00:00:53.650,512] <inf> app: 1c6 ffffffcd
+[00:00:53.652,984] <inf> app: 182 ffffffbd
+[00:00:53.655,487] <inf> app: 12f ffffffa4
+[00:00:53.657,958] <inf> app: b0 ffffff7b
+[00:00:53.660,461] <inf> app: 60 ffffff66
+[00:00:53.662,933] <inf> app: 6b ffffff73
+[00:00:53.665,435] <inf> app: 8f ffffff89
+[00:00:53.667,907] <inf> app: bb ffffff90
+[00:00:53.670,410] <inf> app: de ffffff93
+[00:00:53.672,882] <inf> app: f8 ffffffa0
+[00:00:53.675,384] <inf> app: 117 ffffffad
+[00:00:53.677,856] <inf> app: 10c ffffffb9
+[00:00:53.680,328] <inf> app: 117 ffffffbc
+[00:00:53.682,830] <inf> app: 124 ffffffbd
+[00:00:53.685,302] <inf> app: 122 ffffffcd
+[00:00:53.687,805] <inf> app: 119 ffffffbe
+[00:00:53.690,277] <inf> app: 110 ffffffbb
+[00:00:53.692,779] <inf> app: 102 ffffffc4
+[00:00:53.695,251] <inf> app: ed ffffffb7
+[00:00:53.697,753] <inf> app: dd ffffffdd
+[00:00:54.255,676] <inf> MAX30102: STS1 status 128
+[00:00:54.256,225] <inf> MAX30102: STS2 status 0
+[00:00:54.256,225] <inf> MAX30102: Launching data ready handler
+
+[00:00:54.258,789] <inf> app: f4 ffffffd9
+[00:00:54.261,352] <inf> app: 108 ffffffdc
+[00:00:54.263,916] <inf> app: 10f ffffffd6
+[00:00:54.266,448] <inf> app: c6 ffffffba
+[00:00:54.269,012] <inf> app: 1e ffffff8c
+[00:00:54.271,575] <inf> app: ffffff21 ffffff2a
+[00:00:54.274,139] <inf> app: fffffefa 69
+[00:00:54.276,611] <inf> app: fffff91e ecf
+[00:00:54.279,113] <inf> app: ffff832f ffff9ad3
+[00:00:54.281,585] <inf> app: fffef919 ffff5338
+[00:00:54.284,088] <inf> app: fffee489 ffff2ed4
+[00:00:54.286,560] <inf> app: fffee26d ffff2b4f
+[00:00:54.289,062] <inf> app: fffee54c ffff2c93
+[00:00:54.291,534] <inf> app: fffeea13 ffff2fa3
+[00:00:54.294,006] <inf> app: fffeef9c ffff3386
+[00:00:54.296,508] <inf> app: fffef591 ffff37ce
+[00:00:54.298,980] <inf> app: fffefbb1 ffff3c44
+[00:00:54.301,452] <inf> app: ffff01d5 ffff40d2
+[00:00:54.303,955] <inf> app: ffff07f4 ffff4560
+[00:00:54.306,427] <inf> app: ffff0e01 ffff49e9
+[00:00:54.308,929] <inf> app: ffff13f7 ffff4e5c
+[00:00:54.311,401] <inf> app: ffff19d5 ffff52db
+[00:00:54.313,873] <inf> app: ffff1f96 ffff571d
+[00:00:54.316,375] <inf> app: ffff2533 ffff5b5c
+[00:00:54.318,847] <inf> app: ffff2aa5 ffff5f73
+[00:00:54.321,350] <inf> app: ffff2fff ffff6382
+[00:00:54.323,822] <inf> app: ffff3542 ffff6774
+[00:00:54.326,293] <inf> app: ffff3a69 ffff6b65
+[00:00:54.328,796] <inf> app: ffff3f70 ffff6f3c
+[00:00:54.331,268] <inf> app: ffff445d ffff72f4
+[00:00:54.333,770] <inf> app: 824e 6000
+[00:00:54.336,242] <inf> app: ffff45f0 ffff7459
+[00:00:54.434,753] <inf> app: HERE 5
+[00:00:54.463,287] <inf> MAX30102: STS1 status 0
+[00:00:54.463,836] <inf> MAX30102: STS2 status 2
+[00:00:54.463,836] <inf> app: Temperature: 149!!!
+
+[00:00:54.466,400] <err> app: temperature: 27.19
+[00:00:54.913,818] <inf> MAX30102: STS1 status 128
+[00:00:54.914,337] <inf> MAX30102: STS2 status 0
+[00:00:54.914,367] <inf> MAX30102: Launching data ready handler
+
+[00:00:54.916,931] <inf> app: ffff4af2 ffff7845
+[00:00:54.919,464] <inf> app: ffff4f6e ffff7b89
+[00:00:54.922,027] <inf> app: ffff53c0 ffff7ede
+[00:00:54.924,530] <inf> app: ffff5809 ffff820d
+[00:00:54.927,001] <inf> app: ffff5c54 ffff8551
+[00:00:54.929,504] <inf> app: ffff60b3 ffff88c1
+[00:00:54.931,976] <inf> app: ffff6539 ffff8c55
+[00:00:54.934,478] <inf> app: ffff6abd ffff9102
+[00:00:54.936,950] <inf> app: ffff7236 ffff97ce
+[00:00:54.939,453] <inf> app: ffff7d53 ffffa216
+[00:00:54.941,925] <inf> app: ffff8a2f ffffae11
+[00:00:54.944,427] <inf> app: ffff95b3 ffffb8ba
+[00:00:54.946,899] <inf> app: ffffa08a ffffc292
+[00:00:54.949,371] <inf> app: ffffaaf5 ffffcc40
+[00:00:54.951,873] <inf> app: ffffb7fb ffffd8be
+[00:00:54.954,345] <inf> app: ffffc81a ffffe840
+[00:00:54.956,848] <inf> app: ffffda87 fffff98c
+[00:00:54.959,320] <inf> app: ffffe838 5a8
+[00:00:54.961,791] <inf> app: fffff124 d89
+[00:00:54.964,294] <inf> app: fffffda3 1849
+[00:00:54.966,766] <inf> app: 46a 1da8
+[00:00:54.969,268] <inf> app: 583 1da9
+[00:00:54.971,740] <inf> app: 1107 2870
+[00:00:54.974,212] <inf> app: 28be 3df3
+[00:00:54.976,715] <inf> app: 3adc 4d11
+[00:00:54.979,187] <inf> app: 4609 55c2
+[00:00:54.981,689] <inf> app: 4767 5625
+[00:00:54.984,161] <inf> app: 4b8d 585d
+[00:00:54.986,633] <inf> app: 4caf 5859
+[00:00:54.989,135] <inf> app: 4f9f 5a40
+[00:00:54.991,607] <inf> app: 52ac 5ca8
+[00:00:54.994,079] <inf> app: 51d8 5b6c
+[00:00:55.435,699] <inf> app: HERE 5
+[00:00:55.464,263] <inf> MAX30102: STS1 status 0
+[00:00:55.464,782] <inf> MAX30102: STS2 status 2
+[00:00:55.464,782] <inf> app: Temperature: 152!!!
+
+[00:00:55.467,346] <err> app: temperature: 27.00
+[00:00:55.571,960] <inf> MAX30102: STS1 status 128
+[00:00:55.572,479] <inf> MAX30102: STS2 status 0
+[00:00:55.572,509] <inf> MAX30102: Launching data ready handler
+
+[00:00:55.575,042] <inf> app: 50ed 5a63
+[00:00:55.577,606] <inf> app: 555d 5d4f
+[00:00:55.580,108] <inf> app: 5acd 6000
+[00:00:55.582,611] <inf> app: 647f 63b7
+[00:00:55.585,083] <inf> app: 6939 61fc
+[00:00:55.587,585] <inf> app: 6658 5435
+[00:00:55.590,057] <inf> app: 69d8 53c8
+[00:00:55.592,559] <inf> app: 6cff 5293
+[00:00:55.595,031] <inf> app: 6f70 52df
+[00:00:55.597,534] <inf> app: 6ff0 52c9
+[00:00:55.600,006] <inf> app: 6fa9 5273
+[00:00:55.602,508] <inf> app: 6f91 522d
+[00:00:55.604,980] <inf> app: 6f62 51c1
+[00:00:55.607,482] <inf> app: 6f42 5150
+[00:00:55.609,954] <inf> app: 6eae 5084
+[00:00:55.612,457] <inf> app: 6de6 4fb8
+[00:00:55.614,929] <inf> app: 6cea 4e9f
+[00:00:55.617,401] <inf> app: 6b92 4d5b
+[00:00:55.619,903] <inf> app: 6a68 4c0f
+[00:00:55.622,375] <inf> app: 6966 4b0b
+[00:00:55.624,877] <inf> app: 6803 49da
+[00:00:55.627,349] <inf> app: 669b 4880
+[00:00:55.629,852] <inf> app: 653a 4771
+[00:00:55.632,324] <inf> app: 63f4 4635
+[00:00:55.634,826] <inf> app: 62c7 44e3
+[00:00:55.637,298] <inf> app: 619f 437e
+[00:00:55.639,770] <inf> app: 604d 4237
+[00:00:55.642,272] <inf> app: 5ed3 40ef
+[00:00:55.644,744] <inf> app: 5d39 3f93
+[00:00:55.647,247] <inf> app: 5b99 3e5d
+[00:00:55.649,719] <inf> app: 59ea 3d10
+[00:00:55.652,221] <inf> app: 5848 3ba8
+[00:00:56.210,113] <inf> MAX30102: STS1 status 128
+[00:00:56.210,662] <inf> MAX30102: STS2 status 0
+[00:00:56.210,662] <inf> MAX30102: Launching data ready handler
+
+[00:00:56.213,226] <inf> app: 5671 3a18
+[00:00:56.215,789] <inf> app: 54ba 389b
+[00:00:56.218,353] <inf> app: 52ff 3731
+[00:00:56.220,886] <inf> app: 512d 35d3
+[00:00:56.223,449] <inf> app: 4f65 34a5
+[00:00:56.226,013] <inf> app: 4d86 3389
+[00:00:56.228,576] <inf> app: 4b79 3257
+[00:00:56.231,048] <inf> app: 4982 3138
+[00:00:56.233,551] <inf> app: 479d 2ff2
+[00:00:56.236,022] <inf> app: 45c1 2ecb
+[00:00:56.238,525] <inf> app: 43ed 2da2
+[00:00:56.240,997] <inf> app: 4253 2c84
+[00:00:56.243,469] <inf> app: 40c1 2b6c
+[00:00:56.245,971] <inf> app: 3f21 2a4c
+[00:00:56.248,443] <inf> app: 3d9d 2944
+[00:00:56.250,915] <inf> app: 3c27 283e
+[00:00:56.253,417] <inf> app: 3ac8 2749
+[00:00:56.255,889] <inf> app: 396e 264a
+[00:00:56.258,361] <inf> app: 3821 2556
+[00:00:56.260,864] <inf> app: 3708 2467
+[00:00:56.263,336] <inf> app: 35ea 23a7
+[00:00:56.265,838] <inf> app: 3495 22c2
+[00:00:56.268,310] <inf> app: 3349 21e0
+[00:00:56.270,782] <inf> app: 3192 20e9
+[00:00:56.273,284] <inf> app: 2fd7 1fee
+[00:00:56.275,756] <inf> app: 2e51 1f12
+[00:00:56.278,228] <inf> app: 2ce0 1e32
+[00:00:56.280,731] <inf> app: 2bb0 1d67
+[00:00:56.283,203] <inf> app: 2a96 1ca0
+[00:00:56.285,705] <inf> app: 298f 1be1
+[00:00:56.288,177] <inf> app: 28c1 1b22
+[00:00:56.290,649] <inf> app: 27d9 1a83
+[00:00:56.436,676] <inf> app: HERE 5
+[00:00:56.465,240] <inf> MAX30102: STS1 status 0
+[00:00:56.465,759] <inf> MAX30102: STS2 status 2
+[00:00:56.465,759] <inf> app: Temperature: 155!!!
+
+[00:00:56.468,322] <err> app: temperature: 26.94
+[00:00:56.868,255] <inf> MAX30102: STS1 status 128
+[00:00:56.868,804] <inf> MAX30102: STS2 status 0
+[00:00:56.868,804] <inf> MAX30102: Launching data ready handler
+
+[00:00:56.871,368] <inf> app: 26f7 19db
+[00:00:56.873,931] <inf> app: 2633 193c
+[00:00:56.876,403] <inf> app: 256b 18a1
+[00:00:56.878,906] <inf> app: 24a5 1808
+[00:00:56.881,378] <inf> app: 23c5 1774
+[00:00:56.883,880] <inf> app: 230c 16d4
+[00:00:56.886,352] <inf> app: 2235 164a
+[00:00:56.888,854] <inf> app: 2158 15b3
+[00:00:56.891,326] <inf> app: 20a2 1529
+[00:00:56.893,829] <inf> app: 2006 14b5
+[00:00:56.896,301] <inf> app: 1f54 142d
+[00:00:56.898,803] <inf> app: 1e93 13ad
+[00:00:56.901,275] <inf> app: 1dea 132a
+[00:00:56.903,747] <inf> app: 1d4a 12c9
+[00:00:56.906,250] <inf> app: 1ca8 124d
+[00:00:56.908,721] <inf> app: 1c1d 11d2
+[00:00:56.911,224] <inf> app: 1b8d 116d
+[00:00:56.913,696] <inf> app: 1aee 110c
+[00:00:56.916,168] <inf> app: 1a68 109c
+[00:00:56.918,670] <inf> app: 19cd 1042
+[00:00:56.921,142] <inf> app: 1934 fcc
+[00:00:56.923,645] <inf> app: 18bd f6a
+[00:00:56.926,116] <inf> app: 183b f0b
+[00:00:56.928,619] <inf> app: 17c6 eb3
+[00:00:56.931,091] <inf> app: 1742 e58
+[00:00:56.933,593] <inf> app: 16ce dfe
+[00:00:56.936,065] <inf> app: 163e db9
+[00:00:56.938,537] <inf> app: 15dc d57
+[00:00:56.941,040] <inf> app: 1582 d06
+[00:00:56.943,511] <inf> app: 1527 ccb
+[00:00:56.946,014] <inf> app: 1401 c90
+[00:00:56.948,486] <inf> app: 13b6 c49
+[00:00:57.437,683] <inf> app: HERE 5
+[00:00:57.466,247] <inf> MAX30102: STS1 status 0
+[00:00:57.466,766] <inf> MAX30102: STS2 status 2
+[00:00:57.466,766] <inf> app: Temperature: 158!!!
+
+[00:00:57.469,329] <err> app: temperature: 26.87
+[00:00:57.526,428] <inf> MAX30102: STS1 status 128
+[00:00:57.526,947] <inf> MAX30102: STS2 status 0
+[00:00:57.526,977] <inf> MAX30102: Launching data ready handler
+
+[00:00:57.529,510] <inf> app: 1391 bfb
+[00:00:57.532,073] <inf> app: 1321 bae
+[00:00:57.534,576] <inf> app: 12af b72
+[00:00:57.537,048] <inf> app: 124d b31
+[00:00:57.539,550] <inf> app: 11ad acc
+[00:00:57.542,022] <inf> app: 1068 a4d
+[00:00:57.544,525] <inf> app: f39 9d2
+[00:00:57.546,997] <inf> app: e88 970
+[00:00:57.549,468] <inf> app: e01 92b
+[00:00:57.551,971] <inf> app: dad 8f6
+[00:00:57.554,443] <inf> app: d6b 8c4
+[00:00:57.556,915] <inf> app: d34 89c
+[00:00:57.559,417] <inf> app: d12 868
+[00:00:57.561,889] <inf> app: ce7 82f
+[00:00:57.564,392] <inf> app: ca1 7f8
+[00:00:57.566,864] <inf> app: c58 7c8
+[00:00:57.569,335] <inf> app: c35 7a4
+[00:00:57.571,838] <inf> app: c1e 777
+[00:00:57.574,310] <inf> app: bf2 757
+[00:00:57.576,782] <inf> app: b9f 722
+[00:00:57.579,284] <inf> app: b68 6f9
+[00:00:57.581,756] <inf> app: b23 6c5
+[00:00:57.584,259] <inf> app: ae6 699
+[00:00:57.586,730] <inf> app: aaa 66d
+[00:00:57.589,202] <inf> app: a64 640
+[00:00:57.591,705] <inf> app: a1b 625
+[00:00:57.594,177] <inf> app: 9d4 5f3
+[00:00:57.596,649] <inf> app: 9b9 5d5
+[00:00:57.599,151] <inf> app: 991 5ba
+[00:00:57.601,623] <inf> app: 965 59e
+[00:00:57.604,125] <inf> app: 933 581
+[00:00:57.606,597] <inf> app: 91a 567
+[00:00:58.164,642] <inf> MAX30102: STS1 status 128
+[00:00:58.165,191] <inf> MAX30102: STS2 status 0
+[00:00:58.165,191] <inf> MAX30102: Launching data ready handler
+
+[00:00:58.167,755] <inf> app: 8f1 540
+[00:00:58.170,318] <inf> app: 8df 528
+[00:00:58.172,851] <inf> app: 8b6 4fb
+[00:00:58.175,415] <inf> app: 898 4e5
+[00:00:58.177,978] <inf> app: 85b 4c5
+[00:00:58.180,541] <inf> app: 817 49a
+[00:00:58.183,074] <inf> app: 7ec 489
+[00:00:58.185,577] <inf> app: 7b3 46b
+[00:00:58.188,049] <inf> app: 77d 448
+[00:00:58.190,551] <inf> app: 737 417
+[00:00:58.193,023] <inf> app: 708 3fd
+[00:00:58.195,526] <inf> app: 6eb 3eb
+[00:00:58.197,998] <inf> app: 6bc 3d6
+[00:00:58.200,469] <inf> app: 69c 3bf
+[00:00:58.202,972] <inf> app: 66d 3ac
+[00:00:58.205,444] <inf> app: 64b 38f
+[00:00:58.207,916] <inf> app: 641 378
+[00:00:58.210,418] <inf> app: 63a 367
+[00:00:58.212,890] <inf> app: 61c 357
+[00:00:58.215,362] <inf> app: 5ea 333
+[00:00:58.217,864] <inf> app: 5ad 320
+[00:00:58.220,336] <inf> app: 535 2f4
+[00:00:58.222,808] <inf> app: 49c 2bd
+[00:00:58.225,311] <inf> app: 409 283
+[00:00:58.227,783] <inf> app: 380 25c
+[00:00:58.230,255] <inf> app: 322 236
+[00:00:58.232,757] <inf> app: 2f1 212
+[00:00:58.235,229] <inf> app: 2d3 208
+[00:00:58.237,701] <inf> app: 2e4 1ef
+[00:00:58.240,203] <inf> app: 2e1 1eb
+[00:00:58.242,675] <inf> app: 2d7 1d0
+[00:00:58.245,178] <inf> app: 2ca 1c3
+[00:00:58.438,659] <inf> app: HERE 5
+[00:00:58.467,224] <inf> MAX30102: STS1 status 0
+[00:00:58.467,742] <inf> MAX30102: STS2 status 2
+[00:00:58.467,742] <inf> app: Temperature: 161!!!
+
+[00:00:58.470,306] <err> app: temperature: 26.94
+[00:00:58.822,784] <inf> MAX30102: STS1 status 128
+[00:00:58.823,333] <inf> MAX30102: STS2 status 0
+[00:00:58.823,333] <inf> MAX30102: Launching data ready handler
+
+[00:00:58.825,897] <inf> app: 2cc 1c9
+[00:00:58.828,430] <inf> app: 2bc 1b1
+[00:00:58.830,932] <inf> app: 29f 19d
+[00:00:58.833,435] <inf> app: 29f 19e
+[00:00:58.835,906] <inf> app: 28d 18d
+[00:00:58.838,409] <inf> app: 274 17d
+[00:00:58.840,881] <inf> app: 271 17d
+[00:00:58.843,353] <inf> app: 27e 16c
+[00:00:58.845,855] <inf> app: 288 165
+[00:00:58.848,327] <inf> app: 28f 167
+[00:00:58.850,830] <inf> app: 27f 160
+[00:00:58.853,302] <inf> app: 27f 153
+[00:00:58.855,804] <inf> app: 2a0 15b
+[00:00:58.858,306] <inf> app: 2a1 150
+[00:00:58.860,778] <inf> app: 2b0 145
+[00:00:58.863,281] <inf> app: 2a0 150
+[00:00:58.865,753] <inf> app: 2b2 14a
+[00:00:58.868,225] <inf> app: 2c0 14f
+[00:00:58.870,727] <inf> app: 2b6 137
+[00:00:58.873,199] <inf> app: 2a5 132
+[00:00:58.875,701] <inf> app: 2a1 128
+[00:00:58.878,173] <inf> app: 2ae 127
+[00:00:58.880,676] <inf> app: 2c3 11d
+[00:00:58.883,148] <inf> app: 2c2 11f
+[00:00:58.885,650] <inf> app: 2bb 118
+[00:00:58.888,122] <inf> app: 2bf 11a
+[00:00:58.890,625] <inf> app: 2c0 107
+[00:00:58.893,096] <inf> app: 2c5 10f
+[00:00:58.895,599] <inf> app: 2c1 10c
+[00:00:58.898,071] <inf> app: 2ce 10b
+[00:00:58.900,573] <inf> app: 2c2 109
+[00:00:58.903,045] <inf> app: 2c3 113
+[00:00:59.439,636] <inf> app: HERE 5
+[00:00:59.460,998] <inf> MAX30102: STS1 status 128
+[00:00:59.461,517] <inf> MAX30102: STS2 status 0
+[00:00:59.461,517] <inf> MAX30102: Launching data ready handler
+
+[00:00:59.464,080] <inf> app: 2a2 fe
+[00:00:59.466,644] <inf> app: 225 d8
+[00:00:59.469,207] <inf> app: 18f a8
+[00:00:59.471,740] <inf> app: 113 79
+[00:00:59.474,304] <inf> app: df 62
+[00:00:59.476,867] <inf> app: a8 57
+[00:00:59.479,339] <inf> app: 94 4d
+[00:00:59.481,842] <inf> app: 99 4c
+[00:00:59.484,344] <inf> app: a8 54
+[00:00:59.486,816] <inf> app: c4 53
+[00:00:59.489,288] <inf> app: d3 41
+[00:00:59.491,790] <inf> app: c9 49
+[00:00:59.494,262] <inf> app: dc 49
+[00:00:59.496,765] <inf> app: 104 4b
+[00:00:59.499,237] <inf> app: 10e 4b
+[00:00:59.501,739] <inf> app: 104 47
+[00:00:59.504,211] <inf> app: e2 42
+[00:00:59.506,683] <inf> app: e3 3e
+[00:00:59.509,185] <inf> app: cd 3d
+[00:00:59.511,657] <inf> app: d7 38
+[00:00:59.514,160] <inf> app: e7 43
+[00:00:59.516,632] <inf> app: 113 47
+[00:00:59.519,104] <inf> app: 12c 52
+[00:00:59.521,606] <inf> app: 13f 4d
+[00:00:59.524,078] <inf> app: 13d 49
+[00:00:59.526,580] <inf> app: 130 50
+[00:00:59.529,052] <inf> app: 140 56
+[00:00:59.531,524] <inf> app: 155 4e
+[00:00:59.534,027] <inf> app: 151 4a
+[00:00:59.536,499] <inf> app: 154 4a
+[00:00:59.539,001] <inf> app: 16d 46
+[00:00:59.541,473] <inf> app: 177 41
+[00:00:59.541,992] <inf> MAX30102: STS1 status 0
+[00:00:59.542,510] <inf> MAX30102: STS2 status 0
+[00:01:00.099,151] <inf> MAX30102: STS1 status 128
+[00:01:00.099,700] <inf> MAX30102: STS2 status 0
+[00:01:00.099,700] <inf> MAX30102: Launching data ready handler
+
+[00:01:00.102,264] <inf> app: 170 4e
+[00:01:00.104,827] <inf> app: 17a 47
+[00:01:00.107,360] <inf> app: 180 51
+[00:01:00.109,924] <inf> app: 182 54
+[00:01:00.112,487] <inf> app: 189 51
+[00:01:00.115,051] <inf> app: 19d 55
+[00:01:00.117,584] <inf> app: 197 56
+[00:01:00.120,086] <inf> app: 1a9 61
+[00:01:00.122,558] <inf> app: 1b5 5c
+[00:01:00.125,061] <inf> app: 192 53
+[00:01:00.127,532] <inf> app: 14e 46
+[00:01:00.130,004] <inf> app: bf 18
+[00:01:00.132,507] <inf> app: 35 fffffffb
+[00:01:00.134,979] <inf> app: ffffffc7 ffffffd5
+[00:01:00.137,451] <inf> app: ffffff6a ffffffba
+[00:01:00.139,953] <inf> app: ffffff4e ffffffa3
+[00:01:00.142,425] <inf> app: ffffff48 ffffffad
+[00:01:00.144,897] <inf> app: ffffff5c ffffffb1
+[00:01:00.147,399] <inf> app: ffffff6a ffffffb5
+[00:01:00.149,871] <inf> app: ffffff72 ffffffaf
+[00:01:00.152,343] <inf> app: ffffff6d ffffffa9
+[00:01:00.154,846] <inf> app: ffffff80 ffffffaf
+[00:01:00.157,318] <inf> app: ffffff96 ffffffb8
+[00:01:00.159,820] <inf> app: ffffffbc ffffffbe
+[00:01:00.162,292] <inf> app: ffffffd8 ffffffc3
+[00:01:00.164,764] <inf> app: ffffffe8 ffffffd0
+[00:01:00.167,266] <inf> app: ffffffe3 ffffffce
+[00:01:00.169,738] <inf> app: fffffff9 ffffffd5
+[00:01:00.172,210] <inf> app: 0 ffffffd1
+[00:01:00.174,713] <inf> app: b ffffffd7
+[00:01:00.177,185] <inf> app: 15 ffffffc3
+[00:01:00.179,687] <inf> app: 25 ffffffc4
+[00:01:00.440,612] <inf> app: HERE 5
+[00:01:00.469,177] <inf> MAX30102: STS1 status 0
+[00:01:00.469,696] <inf> MAX30102: STS2 status 2
+[00:01:00.469,696] <inf> app: Temperature: 164!!!
+
+[00:01:00.472,259] <err> app: temperature: 27.19
+[00:01:00.757,293] <inf> MAX30102: STS1 status 128
+[00:01:00.757,843] <inf> MAX30102: STS2 status 0
+[00:01:00.757,843] <inf> MAX30102: Launching data ready handler
+
+[00:01:00.760,406] <inf> app: 75 fffffff1
+[00:01:00.762,969] <inf> app: ac b
+[00:01:00.765,441] <inf> app: c6 10
+[00:01:00.767,944] <inf> app: d3 23
+[00:01:00.770,446] <inf> app: f2 1f
+[00:01:00.772,918] <inf> app: 10a 20
+[00:01:00.775,390] <inf> app: 130 32
+[00:01:00.777,893] <inf> app: 129 19
+[00:01:00.780,364] <inf> app: 13d 32
+[00:01:00.782,867] <inf> app: 14e 30
+[00:01:00.785,339] <inf> app: 147 3b
+[00:01:00.787,841] <inf> app: 166 31
+[00:01:00.790,313] <inf> app: 174 42
+[00:01:00.792,785] <inf> app: 19a 43
+[00:01:00.795,288] <inf> app: 1a3 4f
+[00:01:00.797,760] <inf> app: 19d 46
+[00:01:00.800,262] <inf> app: 1ab 4a
+[00:01:00.802,734] <inf> app: 1cb 56
+[00:01:00.805,236] <inf> app: 1d4 54
+[00:01:00.807,708] <inf> app: 1dd 53
+[00:01:00.810,211] <inf> app: 1df 53
+[00:01:00.812,683] <inf> app: 1c4 52
+[00:01:00.815,155] <inf> app: 162 40
+[00:01:00.817,657] <inf> app: b2 3
+[00:01:00.820,129] <inf> app: 18 ffffffdf
+[00:01:00.822,631] <inf> app: ffffffb2 ffffffbb
+[00:01:00.825,103] <inf> app: ffffff72 ffffffb7
+[00:01:00.827,606] <inf> app: ffffff5c ffffffba
+[00:01:00.830,078] <inf> app: ffffff65 ffffffb6
+[00:01:00.832,580] <inf> app: ffffff7e ffffffbd
+[00:01:00.835,052] <inf> app: ffffff92 ffffffca
+[00:01:00.837,554] <inf> app: ffffff9d ffffffc9
+[00:01:01.395,507] <inf> MAX30102: STS1 status 128
+[00:01:01.396,026] <inf> MAX30102: STS2 status 0
+[00:01:01.396,057] <inf> MAX30102: Launching data ready handler
+
+[00:01:01.398,590] <inf> app: ffffffa6 ffffffc8
+[00:01:01.401,153] <inf> app: ffffff9a ffffffc2
+[00:01:01.403,717] <inf> app: ffffffb4 ffffffbf
+[00:01:01.406,280] <inf> app: ffffffdb ffffffd0
+[00:01:01.408,843] <inf> app: fffffff8 ffffffe5
+[00:01:01.411,376] <inf> app: a ffffffed
+[00:01:01.413,940] <inf> app: 1d ffffffe1
+[00:01:01.416,442] <inf> app: 33 fffffff0
+[00:01:01.418,914] <inf> app: 49 fffffff7
+[00:01:01.421,386] <inf> app: 4e ffffffed
+[00:01:01.423,889] <inf> app: 40 fffffff1
+[00:01:01.426,361] <inf> app: 57 fffffff1
+[00:01:01.428,863] <inf> app: 60 fffffffa
+[00:01:01.431,335] <inf> app: 72 fffffffd
+[00:01:01.433,807] <inf> app: 79 0
+[00:01:01.436,309] <inf> app: 8c fffffff3
+[00:01:01.438,781] <inf> app: 8f 6
+[00:01:01.441,253] <inf> app: 8f 0
+[00:01:01.441,589] <inf> app: HERE 5
+[00:01:01.444,671] <inf> app: 92 4
+[00:01:01.447,143] <inf> app: 9a f
+[00:01:01.449,645] <inf> app: 9d 8
+[00:01:01.452,117] <inf> app: b5 9
+[00:01:01.454,620] <inf> app: ba 15
+[00:01:01.457,092] <inf> app: b2 15
+[00:01:01.459,564] <inf> app: d9 14
+[00:01:01.462,066] <inf> app: db 12
+[00:01:01.464,538] <inf> app: fd 19
+[00:01:01.467,041] <inf> app: 101 28
+[00:01:01.469,512] <inf> app: ee 21
+[00:01:01.472,015] <inf> app: 102 26
+[00:01:01.474,517] <inf> app: 123 1f
+[00:01:01.476,989] <inf> app: 124 1b
+[00:01:01.477,508] <inf> MAX30102: STS1 status 0
+[00:01:01.478,027] <inf> MAX30102: STS2 status 0
+[00:01:02.033,691] <inf> MAX30102: STS1 status 128
+[00:01:02.034,210] <inf> MAX30102: STS2 status 0
+[00:01:02.034,240] <inf> MAX30102: Launching data ready handler
+
+[00:01:02.036,773] <inf> app: 10e 27
+[00:01:02.039,337] <inf> app: 120 20
+[00:01:02.041,900] <inf> app: 12e 30
+[00:01:02.044,433] <inf> app: 144 2b
+[00:01:02.046,997] <inf> app: 15d 2c
+[00:01:02.049,560] <inf> app: 171 39
+[00:01:02.052,124] <inf> app: 184 3e
+[00:01:02.054,595] <inf> app: 18b 38
+[00:01:02.057,098] <inf> app: 18c 4d
+[00:01:02.059,570] <inf> app: 164 39
+[00:01:02.062,042] <inf> app: ec 4
+[00:01:02.064,544] <inf> app: 4e ffffffe9
+[00:01:02.067,016] <inf> app: ffffffcb ffffffc6
+[00:01:02.069,519] <inf> app: ffffff6c ffffffa5
+[00:01:02.071,990] <inf> app: ffffff48 ffffff8c
+[00:01:02.074,462] <inf> app: ffffff4a ffffff9c
+[00:01:02.076,965] <inf> app: ffffff66 ffffffa6
+[00:01:02.079,437] <inf> app: ffffff8b ffffffb1
+[00:01:02.081,939] <inf> app: ffffff99 ffffffc0
+[00:01:02.084,411] <inf> app: ffffffad ffffffb9
+[00:01:02.086,883] <inf> app: ffffffb6 ffffffbe
+[00:01:02.089,385] <inf> app: ffffffcb ffffffbb
+[00:01:02.091,857] <inf> app: ffffffe2 ffffffc7
+[00:01:02.094,360] <inf> app: 9 ffffffca
+[00:01:02.096,832] <inf> app: 39 ffffffde
+[00:01:02.099,304] <inf> app: 4b ffffffe8
+[00:01:02.101,806] <inf> app: 55 ffffffe9
+[00:01:02.104,278] <inf> app: 4a ffffffe7
+[00:01:02.106,781] <inf> app: 45 ffffffe7
+[00:01:02.109,252] <inf> app: 5a ffffffea
+[00:01:02.111,724] <inf> app: 5e ffffffee
+[00:01:02.114,227] <inf> app: 74 ffffffec
+[00:01:02.443,725] <inf> app: HERE 5
+[00:01:02.472,290] <inf> MAX30102: STS1 status 0
+[00:01:02.472,808] <inf> MAX30102: STS2 status 2
+[00:01:02.472,808] <inf> app: Temperature: 167!!!
+
+[00:01:02.475,372] <err> app: temperature: 26.94
+[00:01:02.691,802] <inf> MAX30102: STS1 status 128
+[00:01:02.692,352] <inf> MAX30102: STS2 status 0
+[00:01:02.692,352] <inf> MAX30102: Launching data ready handler
+
+[00:01:02.694,915] <inf> app: 8c 9
+[00:01:02.697,479] <inf> app: b3 1
+[00:01:02.699,951] <inf> app: cf fffffffd
+[00:01:02.702,453] <inf> app: ed 17
+[00:01:02.704,925] <inf> app: f7 11
+[00:01:02.707,427] <inf> app: f5 1c
+[00:01:02.709,899] <inf> app: 102 22
+[00:01:02.712,402] <inf> app: 109 17
+[00:01:02.714,874] <inf> app: f7 19
+[00:01:02.717,376] <inf> app: ea 17
+[00:01:02.719,848] <inf> app: eb 1d
+[00:01:02.722,320] <inf> app: f6 21
+[00:01:02.724,822] <inf> app: fc 1a
+[00:01:02.727,294] <inf> app: 100 1c
+[00:01:02.729,797] <inf> app: 10c 1f
+[00:01:02.732,269] <inf> app: 11c 24
+[00:01:02.734,741] <inf> app: 12d 23
+[00:01:02.737,243] <inf> app: 138 25
+[00:01:02.739,715] <inf> app: 150 34
+[00:01:02.742,187] <inf> app: 160 36
+[00:01:02.744,689] <inf> app: 178 42
+[00:01:02.747,161] <inf> app: 167 38
+[00:01:02.749,664] <inf> app: 154 31
+[00:01:02.752,136] <inf> app: 101 16
+[00:01:02.754,638] <inf> app: 6d fffffff1
+[00:01:02.757,110] <inf> app: ffffffdc ffffffcc
+[00:01:02.759,613] <inf> app: ffffff6d ffffffb1
+[00:01:02.762,084] <inf> app: ffffff30 ffffff90
+[00:01:02.764,556] <inf> app: ffffff2f ffffff9a
+[00:01:02.767,059] <inf> app: ffffff3a ffffff9e
+[00:01:02.769,531] <inf> app: ffffff55 ffffffb5
+[00:01:02.772,003] <inf> app: ffffff6f ffffffb9
+[00:01:03.330,017] <inf> MAX30102: STS1 status 128
+[00:01:03.330,566] <inf> MAX30102: STS2 status 0
+[00:01:03.330,566] <inf> MAX30102: Launching data ready handler
+
+[00:01:03.333,129] <inf> app: ffffff7b ffffffad
+[00:01:03.335,662] <inf> app: ffffff8b ffffffb4
+[00:01:03.338,226] <inf> app: ffffff92 ffffffb0
+[00:01:03.340,789] <inf> app: ffffffaa ffffffb9
+[00:01:03.343,353] <inf> app: ffffffbb ffffffc5
+[00:01:03.345,916] <inf> app: ffffffee ffffffcc
+[00:01:03.348,449] <inf> app: 2 ffffffca
+[00:01:03.350,952] <inf> app: fffffffa ffffffca
+[00:01:03.353,424] <inf> app: 6 ffffffda
+[00:01:03.355,926] <inf> app: 9 ffffffd9
+[00:01:03.358,398] <inf> app: 19 ffffffdb
+[00:01:03.360,870] <inf> app: 45 ffffffe9
+[00:01:03.363,372] <inf> app: 5f ffffffef
+[00:01:03.365,844] <inf> app: 78 fffffff5
+[00:01:03.368,316] <inf> app: 8b fffffff8
+[00:01:03.370,819] <inf> app: d1 c
+[00:01:03.373,291] <inf> app: 106 15
+[00:01:03.375,793] <inf> app: 119 1c
+[00:01:03.378,265] <inf> app: 12f 19
+[00:01:03.380,737] <inf> app: 138 1f
+[00:01:03.383,239] <inf> app: 130 2a
+[00:01:03.385,711] <inf> app: 142 29
+[00:01:03.388,214] <inf> app: 148 2d
+[00:01:03.390,686] <inf> app: 14b 37
+[00:01:03.393,188] <inf> app: 16b 3e
+[00:01:03.395,660] <inf> app: 187 40
+[00:01:03.398,132] <inf> app: 190 3d
+[00:01:03.400,634] <inf> app: 195 3d
+[00:01:03.403,106] <inf> app: 198 3f
+[00:01:03.405,609] <inf> app: 1ab 42
+[00:01:03.408,081] <inf> app: 1b6 39
+[00:01:03.410,583] <inf> app: 1a9 30
+[00:01:03.444,671] <inf> app: HERE 5
+[00:01:03.473,175] <inf> MAX30102: STS1 status 0
+[00:01:03.473,693] <inf> MAX30102: STS2 status 2
+[00:01:03.473,724] <inf> app: Temperature: 170!!!
+
+[00:01:03.476,196] <err> app: temperature: 27.00
+[00:01:03.988,189] <inf> MAX30102: STS1 status 128
+[00:01:03.988,739] <inf> MAX30102: STS2 status 0
+[00:01:03.988,739] <inf> MAX30102: Launching data ready handler
+
+[00:01:03.991,302] <inf> app: 1c9 56
+[00:01:03.993,865] <inf> app: 1de 57
+[00:01:03.996,398] <inf> app: 1fd 52
+[00:01:03.998,962] <inf> app: 20b 61
+[00:01:04.001,525] <inf> app: 204 5e
+[00:01:04.004,058] <inf> app: 1fa 58
+[00:01:04.006,622] <inf> app: 1c4 42
+[00:01:04.009,124] <inf> app: eb fffffffc
+[00:01:04.011,596] <inf> app: 1d ffffffd5
+[00:01:04.014,068] <inf> app: ffffffb5 ffffffb6
+[00:01:04.016,571] <inf> app: ffffff83 ffffffa1
+[00:01:04.019,042] <inf> app: ffffff70 ffffffa2
+[00:01:04.021,545] <inf> app: ffffff77 ffffffb3
+[00:01:04.024,017] <inf> app: ffffff94 ffffffb3
+[00:01:04.026,489] <inf> app: ffffffa8 ffffffc2
+[00:01:04.028,991] <inf> app: ffffffae ffffffca
+[00:01:04.031,463] <inf> app: ffffffa9 ffffffc4
+[00:01:04.033,935] <inf> app: ffffffc0 ffffffbf
+[00:01:04.036,437] <inf> app: ffffffc5 ffffffd0
+[00:01:04.038,909] <inf> app: fffffff6 ffffffcb
+[00:01:04.041,381] <inf> app: 27 ffffffd8
+[00:01:04.043,884] <inf> app: 4b ffffffe0
+[00:01:04.046,356] <inf> app: 47 ffffffe7
+[00:01:04.048,828] <inf> app: 31 fffffff1
+[00:01:04.051,330] <inf> app: 3e ffffffe7
+[00:01:04.053,802] <inf> app: 51 ffffffed
+[00:01:04.056,274] <inf> app: 70 fffffff9
+[00:01:04.058,776] <inf> app: 94 fffffffa
+[00:01:04.061,248] <inf> app: ba 3
+[00:01:04.063,720] <inf> app: c6 8
+[00:01:04.066,223] <inf> app: e5 fffffffa
+[00:01:04.068,695] <inf> app: e7 2
+[00:01:04.445,617] <inf> app: HERE 5
+[00:01:04.474,182] <inf> MAX30102: STS1 status 0
+[00:01:04.474,700] <inf> MAX30102: STS2 status 2
+[00:01:04.474,700] <inf> app: Temperature: 173!!!
+
+[00:01:04.477,264] <err> app: temperature: 27.12
+[00:01:04.646,362] <inf> MAX30102: STS1 status 128
+[00:01:04.646,911] <inf> MAX30102: STS2 status 0
+[00:01:04.646,911] <inf> MAX30102: Launching data ready handler
+
+[00:01:04.649,475] <inf> app: 116 2d
+[00:01:04.652,038] <inf> app: 124 22
+[00:01:04.654,510] <inf> app: 15f 39
+[00:01:04.657,012] <inf> app: 171 29
+[00:01:04.659,484] <inf> app: 177 3d
+[00:01:04.661,987] <inf> app: 189 3f
+[00:01:04.664,459] <inf> app: 19f 3d
+[00:01:04.666,931] <inf> app: 1a3 47
+[00:01:04.669,433] <inf> app: 1ab 4b
+[00:01:04.671,905] <inf> app: 1b7 4b
+[00:01:04.674,407] <inf> app: 1d4 4a
+[00:01:04.676,879] <inf> app: 1e1 4c
+[00:01:04.679,351] <inf> app: 1ed 52
+[00:01:04.681,854] <inf> app: 1ed 53
+[00:01:04.684,326] <inf> app: 1fe 5a
+[00:01:04.686,798] <inf> app: 1ff 57
+[00:01:04.689,300] <inf> app: 1f9 59
+[00:01:04.691,772] <inf> app: 20a 55
+[00:01:04.694,274] <inf> app: 212 60
+[00:01:04.696,746] <inf> app: 210 47
+[00:01:04.699,218] <inf> app: 1fc 4a
+[00:01:04.701,721] <inf> app: 20e 55
+[00:01:04.704,193] <inf> app: 206 4d
+[00:01:04.706,665] <inf> app: 214 53
+[00:01:04.709,167] <inf> app: 1f8 5b
+[00:01:04.711,639] <inf> app: 1c1 4d
+[00:01:04.714,141] <inf> app: f3 d
+[00:01:04.716,613] <inf> app: 9 ffffffca
+[00:01:04.719,116] <inf> app: ffffff6d ffffffb4
+[00:01:04.721,588] <inf> app: ffffff36 ffffff96
+[00:01:04.724,090] <inf> app: ffffff07 ffffffad
+[00:01:04.726,562] <inf> app: ffffff3a ffffffac
+[00:01:05.284,606] <inf> MAX30102: STS1 status 128
+[00:01:05.285,125] <inf> MAX30102: STS2 status 0
+[00:01:05.285,125] <inf> MAX30102: Launching data ready handler
+
+[00:01:05.287,689] <inf> app: ffffff80 ffffffad
+[00:01:05.290,252] <inf> app: ffffffa5 ffffffab
+[00:01:05.292,785] <inf> app: ffffffab ffffffbf
+[00:01:05.295,349] <inf> app: ffffff9f ffffffb9
+[00:01:05.297,912] <inf> app: ffffffad ffffffc2
+[00:01:05.300,476] <inf> app: ffffffce ffffffc8
+[00:01:05.303,009] <inf> app: fffffffa ffffffd0
+[00:01:05.305,511] <inf> app: 24 ffffffdc
+[00:01:05.307,983] <inf> app: 39 ffffffe5
+[00:01:05.310,485] <inf> app: 37 ffffffec
+[00:01:05.312,957] <inf> app: 2d ffffffdc
+[00:01:05.315,429] <inf> app: 2b ffffffe9
+[00:01:05.317,932] <inf> app: 52 fffffff0
+[00:01:05.320,404] <inf> app: 76 fffffffe
+[00:01:05.322,875] <inf> app: 9c 3
+[00:01:05.325,378] <inf> app: a2 2
+[00:01:05.327,850] <inf> app: da 17
+[00:01:05.330,322] <inf> app: fd 1d
+[00:01:05.332,824] <inf> app: 11e 25
+[00:01:05.335,296] <inf> app: 12f 31
+[00:01:05.337,768] <inf> app: 13b 33
+[00:01:05.340,270] <inf> app: 143 30
+[00:01:05.342,742] <inf> app: 155 37
+[00:01:05.345,214] <inf> app: 15d 3e
+[00:01:05.347,686] <inf> app: 17f 37
+[00:01:05.350,189] <inf> app: 178 41
+[00:01:05.352,661] <inf> app: 188 40
+[00:01:05.355,133] <inf> app: 18e 3e
+[00:01:05.357,635] <inf> app: 180 38
+[00:01:05.360,107] <inf> app: 182 3f
+[00:01:05.362,579] <inf> app: 18b 2e
+[00:01:05.365,081] <inf> app: 188 3f
+[00:01:05.446,563] <inf> app: HERE 5
+[00:01:05.475,097] <inf> MAX30102: STS1 status 0
+[00:01:05.475,646] <inf> MAX30102: STS2 status 2
+[00:01:05.475,646] <inf> app: Temperature: 176!!!
+
+[00:01:05.478,210] <err> app: temperature: 27.06
+[00:01:05.942,749] <inf> MAX30102: STS1 status 128
+[00:01:05.943,267] <inf> MAX30102: STS2 status 0
+[00:01:05.943,267] <inf> MAX30102: Launching data ready handler
+
+[00:01:05.945,831] <inf> app: 18f 4d
+[00:01:05.948,394] <inf> app: 198 44
+[00:01:05.950,958] <inf> app: 1a1 4f
+[00:01:05.953,430] <inf> app: 19d 47
+[00:01:05.955,932] <inf> app: 1b2 3a
+[00:01:05.958,404] <inf> app: 19a 40
+[00:01:05.960,876] <inf> app: 1a2 45
+[00:01:05.963,348] <inf> app: 168 3b
+[00:01:05.965,850] <inf> app: f5 f
+[00:01:05.968,322] <inf> app: 2b ffffffde
+[00:01:05.970,825] <inf> app: ffffff81 ffffffb6
+[00:01:05.973,297] <inf> app: ffffff3a ffffffa2
+[00:01:05.975,769] <inf> app: ffffff32 ffffffa2
+[00:01:05.978,271] <inf> app: ffffff40 ffffffb1
+[00:01:05.980,743] <inf> app: ffffff71 ffffffb9
+[00:01:05.983,215] <inf> app: ffffff9a ffffffbf
+[00:01:05.985,717] <inf> app: ffffffc3 ffffffce
+[00:01:05.988,189] <inf> app: ffffffdf ffffffdb
+[00:01:05.990,661] <inf> app: ffffffe6 ffffffd8
+[00:01:05.993,133] <inf> app: e ffffffe0
+[00:01:05.995,635] <inf> app: 43 fffffff5
+[00:01:05.998,107] <inf> app: 63 1
+[00:01:06.000,610] <inf> app: 5f 7
+[00:01:06.003,082] <inf> app: 54 fffffff8
+[00:01:06.005,554] <inf> app: 52 fffffff2
+[00:01:06.008,056] <inf> app: 5c fffffffb
+[00:01:06.010,528] <inf> app: 71 0
+[00:01:06.013,000] <inf> app: 78 2
+[00:01:06.015,502] <inf> app: 8b fffffffd
+[00:01:06.017,974] <inf> app: 8d 10
+[00:01:06.020,446] <inf> app: 9d 23
+[00:01:06.022,949] <inf> app: 98 1a
+[00:01:06.447,509] <inf> app: HERE 5
+[00:01:06.476,074] <inf> MAX30102: STS1 status 0
+[00:01:06.476,593] <inf> MAX30102: STS2 status 2
+[00:01:06.476,593] <inf> app: Temperature: 179!!!
+
+[00:01:06.479,156] <err> app: temperature: 27.12
+[00:01:06.600,891] <inf> MAX30102: STS1 status 128
+[00:01:06.601,409] <inf> MAX30102: STS2 status 0
+[00:01:06.601,440] <inf> MAX30102: Launching data ready handler
+
+[00:01:06.603,973] <inf> app: c1 15
+[00:01:06.606,536] <inf> app: d5 12
+[00:01:06.609,039] <inf> app: d4 10
+[00:01:06.611,511] <inf> app: ea 15
+[00:01:06.614,013] <inf> app: f3 24
+[00:01:06.616,485] <inf> app: 106 1a
+[00:01:06.618,988] <inf> app: 102 29
+[00:01:06.621,459] <inf> app: 10d 21
+[00:01:06.623,962] <inf> app: 116 29
+[00:01:06.626,434] <inf> app: 117 29
+[00:01:06.628,936] <inf> app: 12e 23
+[00:01:06.631,408] <inf> app: 13d 29
+[00:01:06.633,911] <inf> app: 13b 37
+[00:01:06.636,383] <inf> app: 139 2c
+[00:01:06.638,854] <inf> app: 148 24
+[00:01:06.641,357] <inf> app: 151 29
+[00:01:06.643,829] <inf> app: 16c 32
+[00:01:06.646,331] <inf> app: 16e 3d
+[00:01:06.648,803] <inf> app: 15f 33
+[00:01:06.651,306] <inf> app: 144 23
+[00:01:06.653,778] <inf> app: 9d 6
+[00:01:06.656,280] <inf> app: ffffffb2 ffffffbf
+[00:01:06.658,752] <inf> app: ffffff01 ffffff94
+[00:01:06.661,224] <inf> app: fffffec9 ffffff82
+[00:01:06.663,726] <inf> app: fffffeca ffffff81
+[00:01:06.666,198] <inf> app: fffffecc ffffff85
+[00:01:06.668,701] <inf> app: ffffff00 ffffff9a
+[00:01:06.671,173] <inf> app: ffffff29 ffffffac
+[00:01:06.673,675] <inf> app: ffffff52 ffffffb8
+[00:01:06.676,147] <inf> app: ffffff41 ffffffad
+[00:01:06.678,619] <inf> app: ffffff49 ffffffc5
+[00:01:06.681,121] <inf> app: ffffff62 ffffffd3
+[00:01:07.239,105] <inf> MAX30102: STS1 status 128
+[00:01:07.239,624] <inf> MAX30102: STS2 status 0
+[00:01:07.239,654] <inf> MAX30102: Launching data ready handler
+
+[00:01:07.242,187] <inf> app: ffffffa5 ffffffd4
+[00:01:07.244,750] <inf> app: ffffffc3 ffffffd2
+[00:01:07.247,314] <inf> app: ffffffdc ffffffdd
+[00:01:07.249,877] <inf> app: ffffffe5 ffffffdc
+[00:01:07.252,410] <inf> app: ffffffe5 ffffffdf
+[00:01:07.254,974] <inf> app: fffffff4 ffffffdd
+[00:01:07.257,537] <inf> app: fffffff6 ffffffdc
+[00:01:07.260,040] <inf> app: 10 ffffffe3
+[00:01:07.262,512] <inf> app: 20 ffffffe2
+[00:01:07.264,984] <inf> app: 2d ffffffee
+[00:01:07.267,486] <inf> app: 48 fffffff5
+[00:01:07.269,958] <inf> app: 50 fffffff4
+[00:01:07.272,430] <inf> app: 4f 2
+[00:01:07.274,932] <inf> app: 78 fffffffb
+[00:01:07.277,404] <inf> app: 8b 8
+[00:01:07.279,876] <inf> app: 95 c
+[00:01:07.282,379] <inf> app: b5 19
+[00:01:07.284,851] <inf> app: bc d
+[00:01:07.287,322] <inf> app: d0 1f
+[00:01:07.289,825] <inf> app: d8 19
+[00:01:07.292,297] <inf> app: f0 1a
+[00:01:07.294,799] <inf> app: f6 1f
+[00:01:07.297,271] <inf> app: 10b 1d
+[00:01:07.299,743] <inf> app: 108 1e
+[00:01:07.302,246] <inf> app: 126 20
+[00:01:07.304,718] <inf> app: 130 27
+[00:01:07.307,189] <inf> app: 12c 32
+[00:01:07.309,692] <inf> app: 123 33
+[00:01:07.312,164] <inf> app: 121 29
+[00:01:07.314,636] <inf> app: 13a 24
+[00:01:07.317,138] <inf> app: 14e 19
+[00:01:07.319,610] <inf> app: 158 26
+[00:01:07.448,486] <inf> app: HERE 5
+[00:01:07.477,050] <inf> MAX30102: STS1 status 0
+[00:01:07.477,569] <inf> MAX30102: STS2 status 2
+[00:01:07.477,569] <inf> app: Temperature: 182!!!
+
+[00:01:07.480,133] <err> app: temperature: 27.25
+[00:01:07.897,247] <inf> MAX30102: STS1 status 128
+[00:01:07.897,766] <inf> MAX30102: STS2 status 0
+[00:01:07.897,766] <inf> MAX30102: Launching data ready handler
+
+[00:01:07.900,329] <inf> app: 17a 45
+[00:01:07.902,893] <inf> app: 172 34
+[00:01:07.905,395] <inf> app: 173 4a
+[00:01:07.907,867] <inf> app: 122 24
+[00:01:07.910,369] <inf> app: 53 fffffff8
+[00:01:07.912,841] <inf> app: ffffff86 ffffffab
+[00:01:07.915,344] <inf> app: ffffff11 ffffff99
+[00:01:07.917,816] <inf> app: fffffee7 ffffff83
+[00:01:07.920,318] <inf> app: fffffee4 ffffff99
+[00:01:07.922,790] <inf> app: ffffff0a ffffffa2
+[00:01:07.925,292] <inf> app: ffffff45 ffffffb2
+[00:01:07.927,764] <inf> app: ffffff78 ffffffc2
+[00:01:07.930,267] <inf> app: ffffff88 ffffffb8
+[00:01:07.932,739] <inf> app: ffffff9b ffffffba
+[00:01:07.935,211] <inf> app: ffffff9e ffffffc0
+[00:01:07.937,713] <inf> app: ffffffc9 ffffffd8
+[00:01:07.940,185] <inf> app: 17 ffffffe5
+[00:01:07.942,687] <inf> app: 57 fffffff8
+[00:01:07.945,159] <inf> app: 6d fffffffa
+[00:01:07.947,662] <inf> app: 72 6
+[00:01:07.950,134] <inf> app: 87 b
+[00:01:07.952,606] <inf> app: 8a 7
+[00:01:07.955,108] <inf> app: 9c 4
+[00:01:07.957,580] <inf> app: a0 7
+[00:01:07.960,083] <inf> app: b8 14
+[00:01:07.962,554] <inf> app: d1 13
+[00:01:07.965,026] <inf> app: cb 16
+[00:01:07.967,529] <inf> app: e5 1e
+[00:01:07.970,001] <inf> app: f4 23
+[00:01:07.972,503] <inf> app: fa 22
+[00:01:07.974,975] <inf> app: f0 35
+[00:01:07.977,447] <inf> app: ff 30
+
+
+Disconnected
