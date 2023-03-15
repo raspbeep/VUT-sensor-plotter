@@ -1,3 +1,5 @@
+import copy
+
 from scipy import signal
 import numpy as np
 import matplotlib.pyplot as plt
@@ -215,31 +217,103 @@ cutoff_frequencies = [0.6, 3.5]
 filter_type = 'bandpass'
 sampling_frequency = 30
 
-sos = signal.cheby2(filter_order, band_attenuation, cutoff_frequencies,
-                    btype=filter_type, fs=sampling_frequency, output='sos')
-filtered = signal.sosfiltfilt(sos, data)
-vals_x = np.arange(len(data))
 
-peaks_data_x = q_ppg(data)
-peaks_data_y = [data[i] for i in peaks_data_x]
+def filtering(x):
+    a_count = 9
+    b_count = 9
+    a = [1.,  -5.77488658,  14.9478524, -22.84101996, 22.72887904, -15.26139577,   6.88741345,  -1.96330387, 0.27649248]
+    b = [0.41273059,  -2.35235659, 6.27778392, -10.53667702, 12.39705575, -10.53667702,   6.27778392,  -2.35235659,
+         0.41273059]
 
-peaks_filtered_x = q_ppg(filtered)
-peaks_filtered_y = [filtered[i] for i in peaks_filtered_x]
+    res = signal.cheby2(filter_order, band_attenuation, cutoff_frequencies,
+                        btype=filter_type, fs=sampling_frequency)
+    print(res)
+    y = [0] * len(x)
+    # for n in range(9, len(data)):
+    #     y[n] = (b[0] * x[n-8]) + (b[1] * x[n-7]) + (b[2] * x[n-6]) + (b[3] * x[n-5]) + \
+    #            (b[4] * x[n - 4]) + (b[5] * x[n-3]) + (b[6] * x[n-2]) + (b[7] * x[n-1]) + (b[8] * x[n]) \
+    #                                                                                            \
+    #            - (a[0] * y[n-9]) - (a[1] * y[n-8]) - (a[2] * y[n-7]) - (a[3] * y[n-6]) \
+    #            - (a[4] * y[n - 5]) - (a[5] * y[n-4]) - (a[6] * y[n-3]) - (a[7] * y[n-2]) - (a[8] * y[n-1])
+    length = len(x)
+    filter_length = 9
 
-fig, axs = plt.subplots(2)
-# print(data)
-# print(filtered)
-fr = 0
-to = len(data)
-axs[0].plot(vals_x[fr:to], data[fr:to])
-axs[0].plot(peaks_data_x, peaks_data_y, 'r+')
+    for n in range(length - filter_length-5):
+        input_p = x[(filter_length - 1 + n):]
+        acc = 0
+        bcc = 0
+        for k in range(filter_length):
+            bcc += b[k] * input_p[filter_length - k - 1]
 
-axs[1].plot(vals_x[fr:to], filtered[fr:to])
-axs[1].plot(peaks_filtered_x, peaks_filtered_y, 'r+')
-plt.show()
+        for k in range(filter_length):
+            acc += a[k] * y[filter_length - k - 1]
+        y[n] = bcc - acc
+
+    # for (n = 0; n < length; n++) {
+    #     inputp = & insamp[filterLength - 1 + n];
+    #
+    #     acc = 0;
+    #     bcc = 0;
+    #
+    #     for (k = 0; k < filterLength; k++)
+    #     {
+    #     bcc += coeffb[k] * inputp[filterLength-k-1]; // b[0] * x[6] + b[1] * x[5]...+b[6] * x[0]
+    #     }
+    #
+    #     for (k = 0; k < filterLength; k++)
+    #     {
+    #     acc += coeffa[k] * output[filterLength-k-1]; // a[1] * y[5] + a[2] * y[4]...+a[6] * y[0]
+    #     }
+    #     output[n] = bcc-acc;
+    # }
+
+
+
+    return y
+
+
+if __name__ == '__main__':
+    sos = signal.cheby2(filter_order, band_attenuation, cutoff_frequencies,
+                        btype=filter_type, fs=sampling_frequency, output='sos')
+    # b, a = signal.cheby2(filter_order, band_attenuation, cutoff_frequencies,
+    #                     btype=filter_type, fs=sampling_frequency, output='ba')
+    # print(b)
+    # print(a)
+
+    filtered = signal.sosfiltfilt(sos, copy.deepcopy(data))
+    vals_x = np.arange(len(data))
+
+    peaks_data_x = q_ppg(copy.deepcopy(data))
+    peaks_data_y = [data[i] for i in peaks_data_x]
+
+    peaks_filtered_x = q_ppg(filtered)
+    peaks_filtered_y = [filtered[i] for i in peaks_filtered_x]
+
+    man_filtered = filtering(copy.deepcopy(data))
+
+    fig, axs = plt.subplots(3)
+    # print(data)
+    # print(filtered)
+    fr = 0
+    to = len(data)
+    axs[0].plot(vals_x[fr:to], data[fr:to])
+    axs[0].plot(peaks_data_x, peaks_data_y, 'r+')
+
+    axs[1].plot(vals_x[fr:to], filtered[fr:to])
+    axs[1].plot(peaks_filtered_x, peaks_filtered_y, 'r+')
+
+    axs[2].plot(vals_x[fr:to], man_filtered[fr:to])
+    # plt.show()
 
 
 def filter_data(data_input):
     sos_params = signal.cheby2(filter_order, band_attenuation, cutoff_frequencies,
                         btype=filter_type, fs=sampling_frequency, output='sos')
+    res = signal.cheby2(filter_order, band_attenuation, cutoff_frequencies,
+                               btype=filter_type, fs=sampling_frequency)
+    print("b, a params: ", res)
+    print("filtered:", )
     return signal.sosfiltfilt(sos_params, data_input)
+
+
+

@@ -66,11 +66,11 @@ async def run():
                 nums = [int(i) for i in line]
                 print("peaks:\t", nums)
                 peaks_red.append(nums)
-                count -= 1
 
             if "BPM" in line:
                 # line = line.split(': ')[1]
                 print(line)
+                count -= 1
 
     if count == 0:
         print(values_red)
